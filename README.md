@@ -6,15 +6,15 @@ Voor de eerste AVV heb ik een webshop gemaakt. Het ging erom dat je items in je 
 
 **Toegepaste Principles**
  * Principle 1. Clarity is job #1
-  * Ik heb geprobeerd om de website zo "webwinkelig mogelijk over te laten komen"
+   * Ik heb geprobeerd om de website zo "webwinkelig mogelijk over te laten komen"
  * Principle 5. Direct manipulation is best 
-  * Als je naar je winkelwagentje gaat, zie je de items die in je winkelwagentje zitten en hoeveel daarvan. Je kan het getal veranderen en de totaalprijs wordt direct aangepast
+   * Als je naar je winkelwagentje gaat, zie je de items die in je winkelwagentje zitten en hoeveel daarvan. Je kan het getal veranderen en de totaalprijs wordt direct aangepast
  * Principle 7. Keep secondairy actions secondary
-  * Je kan kiezen of je het product in je winkelwagen wilt stoppen, of om hem toe te voegen als favoriete. De knop voor winkelwagen valt veel meer op dan favoriete
+   * Je kan kiezen of je het product in je winkelwagen wilt stoppen, of om hem toe te voegen als favoriete. De knop voor winkelwagen valt veel meer op dan favoriete
  * Principle 9. Appearance follows behavior
-  * Als de gebruiker klikt op een product, wordt dat product schermvullend en krijgt de gebruiker meer informatie
+   * Als de gebruiker klikt op een product, wordt dat product schermvullend en krijgt de gebruiker meer informatie
  * Principle 11. Strong visual hierarchies work best
-  * Je ziet goed onscheid tussen de "main content" en "side-content". Dit zie je doormiddel van kleurgebruik en vorm
+   * Je ziet goed onscheid tussen de "main content" en "side-content". Dit zie je doormiddel van kleurgebruik en vorm
 
 **Feedback van Joost**
  * De knoppen passen niet goed bij het design.
