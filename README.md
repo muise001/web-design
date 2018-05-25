@@ -6,10 +6,10 @@
 
 Bij deze opdracht voor het vak "Web design", was het de bedoeling om een website te maken voor twee verschillende mensen. Een van de twee heeft een "Beperking", waardoor je de website heel accessible moest maken voor deze persoon.
 
-Ik heb een website gemaakt voor onze Minor. Hierop krijg je meer informatie over de minor in het algemeen, specifieke informatie over de vakken en projecten en kan je het rooster bekijken.
+Ik heb een website gemaakt voor studenten die interresse hebben in onze Minor. Hierop krijg je meer informatie over de minor in het algemeen, commentaar van studenten, meer info over de vakken etc. 
 
 ### User Stories
- 1. Mensen die geen muis hebben of kunnen gebruiken, moeten alsnog alle functionaliteit van de website kunnen gebruiken
+ 1. Derde jaars HvA studenten die een minor moeten kiezen en graag meer teweten willen komen over de Minor Web Development
  2. Studenten van de HvA die geïnteresseerd zijn in de Minor, moeten specifieke informatie krijgen over de vakken
 
 ## De Personen
