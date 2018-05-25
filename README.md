@@ -56,6 +56,8 @@ Om de website zo toegankelijk mogelijk te maken voor Marijn heb ik een aantal sp
 
 ## Voor de herkansing
 
+(Kijk voor de avv bij de branch avv 1)
+
 Over mijn website kreeg ik feedback. De grootste punten die ik moest aanpasen waren :
  * Je moet meer focussen op je user stories
  * Vaknamen zeggen studenten die niet op de minor zitten niks.
