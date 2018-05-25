@@ -53,4 +53,29 @@ Om de website zo toegankelijk mogelijk te maken voor Marijn heb ik een aantal sp
 ## Content inventarisatie 
 
 <img src="https://github.com/muise001/WebDesign/blob/master/contentinventarisatie.jpg" alt="content inventarisatie">
-     
+
+## Voor de herkansing
+
+Over mijn website kreeg ik feedback. De grootste punten die ik moest aanpasen waren :
+ * Je moet meer focussen op je user stories
+ * Vaknamen zeggen studenten die niet op de minor zitten niks.
+ * Zorg ervoor dat de website er professioneler uitziet
+ 
+### Mijn Gebruikers 
+ Mijn users waren Marijn, en een derde jaars CMD student die een Minor moet kieze en meer informatie wilt over de Minor Web  development. Bij de eerste versie van mijn website had ik me meer gefocust op Marijn. Dit was goed en Marijn bleek na de test op een paar punten na erg tevereden. Helaas bleek mijn andere user niet geholpen te zijn.
+
+Om deze reden heb ik m'n user story opnieuw goed bekeken en heb punten op een rij gezet over wat mijn user wilt.
+
+**Een derde-jaars CMD student die aan het orienteren is naar een minor wilt ...**
+  * Op de landingspagina meteen een goede indruk krijgen over de minor
+  * Feedback van studenten lezen die deze minor al gevolgd hebben
+  * Duidelijkheid over wanneer en hoe hij zich in kan schrijven
+  * Een sfeerinpressie over de werkstijl van de Minor
+  * Een korte uitleg over wat we gaan doen en als hij interesse heeft, een uitgebreide uitleg
+
+**Marijn wilt ...**
+  * Met de tab-, spatiebalk-, en pijltjestoetsen door de website heen browsen zonder problemen.
+  * Een mooie website te zien krijgen
+  * Een plesurable ervaring halen uit deze website
+
+
