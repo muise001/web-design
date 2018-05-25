@@ -1,5 +1,5 @@
 <img src="https://github.com/muise001/web-design/blob/master/Schermafbeelding%202018-05-25%20om%2009.03.19.png" alt="Schermafbeelding van de hoofdpagina van de website op tablet-formaat">
-<a href="https://muise001.github.io/web-design/">Klik hier om de nieuwste versie te bekijken</a>
+<a href="https://muise001.github.io/web-design/">Klik hier om de nieuwste versie te bekijken</a><br/>
 <a href="https://muise001.github.io/WebDesign/index.html">Klik hier om de oude site te bekijken</a>
 
 # Web Design
